@@ -1,0 +1,14 @@
+{
+  "name": "music",
+  "version": "0.0.1",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "xroot",
+  "license": "ISC",
+  "dependencies": {
+    "express": "*"
+  },
+  "description": ""
+}
